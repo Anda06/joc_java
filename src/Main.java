@@ -50,7 +50,7 @@ class Main
         }
 
         if (computer.equals("foarfeca") && utilizator.equals("hartie")){
-            System.out.println("Ai castigat , foarfeca taie hartia!");
+            System.out.println("Ai pierdut , foarfeca taie hartia!");
         }
 
         if (computer.equals("hartie")&& utilizator.equals("foarfeca")){
